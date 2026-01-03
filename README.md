@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **user centric UI/UX,Backend,OOP,Project management & execution**
 
-- 📫 How to reach me linkedin.com/in/chirag-patil-21956525a
+- 📫 How to reach me chiragpatil2002@icloud.com
 
 - ⚡ Fun fact **I like Music production,Cinematography, Color, Lighting & Composition**
 
