@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi 👋, I'm 
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=2000&color=58A6FF&width=240&lines=Chirag+Patil" alt="Chirag Patil" align="center" />
-    </a>
-  </h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Chirag+Patil" alt="Hi, I'm Chirag Patil" />
+  </a>
+
   <p><strong>A passionate developer from India | Building User-Centric Solutions</strong></p>
 
   <p align="center">
