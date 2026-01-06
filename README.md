@@ -7,6 +7,7 @@
   <p><strong>A passionate developer from India | Building User-Centric Solutions</strong></p>
 
   <p align="center">
+    connect with me 👉
     <a href="https://www.linkedin.com/in/chirag-patil-21956525a/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
