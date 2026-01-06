@@ -1,1 +1,58 @@
-👋 Hi, I'm Chirag Patil!<p align="left"><a href="https://visitcount.itsvg.in/api?id=cp793&icon=0&color=3"><img src="https://visitcount.itsvg.in/api?id=cp793&icon=0&color=3" alt="Visit Count" /></a></p>💫 About Me:🔭 I’m currently working on: [Your Project Name]👯 I’m looking to collaborate on: Open-source projects involving React or Python.🤝 I’m looking for help with: Mastering Advanced Cloud Architecture.🌱 I’m currently learning: Advanced Go and Kubernetes.💬 Ask me about: JavaScript, Web Development, or 3D Modeling.⚡ Fun fact: I can spend hours in Blender and still find new buttons.🌐 Connect with Me:<p align="left"><a href="https://discord.gg/chiragpatil95" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-%25237289DA.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"></a><a href="https://www.google.com/search?q=https://linkedin.com/in/chirag-patil-21956525a/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a><a href="mailto:cp793078@gmail.com" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a></p>💻 Tech Stack:🚀 Languages🎨 Frontend & UI⚙️ Backend & Frameworks📱 Mobile Development☁️ Cloud & DevOps🗄️ Databases🖌️ Design & Tools📊 GitHub Stats:<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cp793&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><img src="https://nirzak-streak-stats.vercel.app/?user=cp793&theme=gruvbox&hide_border=false" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cp793&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></p>🏆 GitHub Trophies<p align="center"><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dcp793%26theme%3Dgruvbox%26margin-w%3D4" alt="GitHub Trophies" /></p>🔝 Top Contributed Repo<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=cp793&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></p><p align="center"><i>Proudly created with GPRM</i></p>
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Chirag+Patil" alt="Hi, I'm Chirag Patil" />
+  </a>
+
+  <p><strong>A passionate developer from India | Building User-Centric Solutions</strong></p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/chirag-patil-21956525a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:chiragpatil2002@icloud.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 I’m currently learning **LLM**
+- 👯 I’m looking to collaborate on **Good Start up ideas**
+- 💬 Ask me about **user centric UI/UX, Backend, OOP, Project management & execution**
+- ⚡ Fun fact **I like Music production, Cinematography, Color, Lighting & Composition**
+
+---
+
+### 🛠 Languages and Tools
+
+<div align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</div>
