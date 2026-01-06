@@ -13,6 +13,9 @@
     <a href="mailto:chiragpatil2002@icloud.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
     </a>
+    <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+      <img src="https://img.shields.io/badge/chiragpatil95-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="chiragpatil95"/>
+    </a>
   </p>
 </div>
 
