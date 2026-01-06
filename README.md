@@ -31,6 +31,6 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,swift,php,react,nodejs,flutter,android,docker,aws,figma,blender,unity,unreal,git&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,swift,php,react,nodejs,flutter,docker,aws,figma,blender,unity,unreal,git&perline=9" />
   </a>
 </div>
