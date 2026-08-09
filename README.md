@@ -1,8 +1,6 @@
 <div align="center">
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Chirag+Patil" alt="Hi, I'm Chirag Patil" />
-  </a>
+  <h2>Hi 👋, I'm Chirag Patil</h2>
 
   <p><strong>A passionate developer from India | Building User-Centric Solutions</strong></p>
 
@@ -23,13 +21,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **LLM**
-- 👯 I’m looking to collaborate on **Good Start up ideas**
-- 💬 Ask me about **user centric UI/UX, Backend, OOP, Project management & execution**
-- ⚡ Fun fact **I like Music production, Cinematography & Lighting**
+* 🌱 I’m currently learning **LLM**
+* 👯 I’m looking to collaborate on **Good Start up ideas**
+* 💬 Ask me about **user centric UI/UX, Backend, OOP, Project management & execution**
+* ⚡ Fun fact **I like Music production, Cinematography & Lighting**
 
 ---
-
-
-
-
