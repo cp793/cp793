@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning **LLM**
 - 👯 I’m looking to collaborate on **Good Start up ideas**
 - 💬 Ask me about **user centric UI/UX, Backend, OOP, Project management & execution**
-- ⚡ Fun fact **I like Music production, Cinematography, Color, Lighting & Composition**
+- ⚡ Fun fact **I like Music production, Cinematography, Lighting & Composition**
 
 ---
 
